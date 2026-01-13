@@ -13,3 +13,4 @@ python-docx
 anthropic
 httpx
 reportlab
+protobuf
